@@ -7,5 +7,5 @@ Truly passionate about coding and learning new technologies and hope to contribu
 - 💬 Ask me about Competitive Coding, Data Structures and Algorithms, OOP'S, DBMS
 - 📫 How to reach me: mayurpondkule77@gmail.com
 
-<a href="https://www.linkedin.com/in/mayur-pondkule-1069a6207/" <i class='bx bxl-instagram'></i>></a>
+
 
