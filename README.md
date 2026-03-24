@@ -4,7 +4,7 @@ Hi 👋 My name is Mayur
 Truly passionate about coding and learning new technologies and hope to contribute significantly in this field in the future.
 
 * ✉️  You can contact me at [mayurpondkule77@gmail.com](mailto:mayurpondkule77@gmail.com)
-* 🧠  I'm learning React js
+* 🧠  I'm learning devops with LLMs ,agents
 
 ### Skills
 
