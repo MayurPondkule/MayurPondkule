@@ -9,7 +9,7 @@ Truly passionate about coding and learning new technologies and hope to contribu
 ### Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,argocd,prometheus,grafana,linux,bash,git,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,prometheus,grafana,linux,bash,git,python)](https://skillicons.dev)
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170">
