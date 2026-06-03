@@ -9,6 +9,8 @@ Truly passionate about coding and learning new technologies and hope to contribu
 ### Skills
 
 
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,argo,prometheus,grafana,linux,bash,git,python)](https://skillicons.dev)
+
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" />
