@@ -1,10 +1,10 @@
-Hi 👋 My name is Mayur
+Hi 👋 Mayur Here
 ======================
 
 Truly passionate about coding and learning new technologies and hope to contribute significantly in this field in the future.
 
 * ✉️  You can contact me at [mayurpondkule77@gmail.com](mailto:mayurpondkule77@gmail.com)
-* 🧠  I'm learning devops with LLMs ,agents
+* 🧠  DevOps/SRE/cloud engineer with experience in Cl/CD, cloud, and automation. LLMs, agents
 
 ### Skills
 
